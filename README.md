@@ -3,7 +3,7 @@
 | Date | Activité | Ratio |
 |---|---|---|
 | 4 avril 2022 | Test écrit #1 | 12.5% |
-| 3 juin 2022| Test écrit #2 | 12.5% |
+| 13 juin 2022| Test écrit #2 | 12.5% |
 |   | 3 labos test | 25% |
 |   | Examen | 50% |
 
@@ -65,6 +65,6 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 | 20220523 | L | | |
 | 20220530 | L | | |
 | 20220603 | C | Révisions TE2 | |
-| 20220610 | C | TE2| |
-| 20220613 | L | | |
+| 20220610 | L | | échange C/L avec le 13 juin |
+| 20220613 | C | TE2| échange L/C avec le 10 juin|
 | 20220617 | C | Révisions examen| |
