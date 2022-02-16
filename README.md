@@ -67,7 +67,6 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 | 20220523 | L | | |
 | 20220530 | L | | |
 | 20220603 | C | Révisions TE2 | |
-| 20220606 | L | | |
 | 20220610 | C | TE2| |
 | 20220613 | L | | |
 | 20220617 | C | Révisions examen| |
