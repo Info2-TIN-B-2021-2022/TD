@@ -2,8 +2,8 @@
 
 | Date | Activité | Ratio |
 |---|---|---|
-| | Test écrit #1 | 12.5% |
-|  | Test écrit #2 | 12.5% |
+| 4 avril 2022 | Test écrit #1 | 12.5% |
+| 3 juin 2022| Test écrit #2 | 12.5% |
 |   | 3 labos test | 25% |
 |   | Examen | 50% |
 
