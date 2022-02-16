@@ -51,8 +51,6 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 | 20220404 | L | | |
 | 20220408 | C | TE1 | |
 | 20220411 | L | | |
-| 20220415 | C | | |
-| 20220422 | C | | |
 | 20220425 | C | | |
 | 20220425 | L | | |
 | 20220429 | C | | |
