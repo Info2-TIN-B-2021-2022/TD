@@ -46,10 +46,10 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 | 20220321 | L | | |
 | 20220325 | C | | |
 | 20220328 | L | | |
-| 20220401 | C | | |
-| 20220404 | C | Révisions TE1 | |
+| 20220401 | C | Révisions TE1 | |
+| 20220404 | C |  TE1 | |
 | 20220404 | L | | |
-| 20220408 | C | TE1 | |
+| 20220408 | C | | |
 | 20220411 | L | | |
 | 20220425 | C | | |
 | 20220425 | L | | |
