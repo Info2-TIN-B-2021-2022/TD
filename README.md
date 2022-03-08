@@ -35,10 +35,10 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 | 20220221 | C | présentations | |
 | 20220221 | L | installation, labo02 | |
 | 20220225 | C | structures points, segments, polygones| |
-| 20220228 | L | | |
-| 20220304 | C | | |
-| 20220307 | C | | |
-| 20220307 | L | | |
+| 20220228 | L | labo02| |
+| 20220304 | C | structures + fichiers| |
+| 20220307 | C | fichiers txt| |
+| 20220307 | L | fichiers txt| |
 | 20220311 | C | | |
 | 20220314 | L | | |
 | 20220318 | C | | |
