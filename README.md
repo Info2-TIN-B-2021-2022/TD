@@ -40,7 +40,7 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 | 20220307 | C | fichiers txt| |
 | 20220307 | L | fichiers txt| |
 | 20220311 | C | fichiers txt, types énumérés| |
-| 20220314 | L | | |
+| 20220314 | L | labo03 1/2| https://classroom.github.com/a/T0VfjbhW |
 | 20220318 | C | | |
 | 20220321 | C | | |
 | 20220321 | L | | |
