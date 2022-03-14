@@ -43,7 +43,7 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 | 20220314 | L | labo03 1/2| https://classroom.github.com/a/T0VfjbhW |
 | 20220318 | C | | |
 | 20220321 | C | | |
-| 20220321 | L | | |
+| 20220321 | L | labo03 2/2| |
 | 20220325 | C | | |
 | 20220328 | L | | |
 | 20220401 | C | Révisions TE1 | |
