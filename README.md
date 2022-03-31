@@ -44,9 +44,9 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 | 20220318 | C | fichiers txt, suite| |
 | 20220321 | C | fichiers binaires| |
 | 20220321 | L | labo03 2/2| |
-| 20220325 | C | | |
-| 20220328 | L | | |
-| 20220401 | C | Révisions TE1 | |
+| 20220325 | C | fichiers binaires| |
+| 20220328 | L | labo04 1/| https://classroom.github.com/a/T7jto9W4|
+| 20220401 | C | fichiers binaires et allocation dynamique| |
 | 20220404 | C |  TE1 | |
 | 20220404 | L | | |
 | 20220408 | C | | |
